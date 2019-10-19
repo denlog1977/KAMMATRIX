@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KAMMATRIX</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="record_to_service">ЗАПИСЬ НА СЕРВИС</string>
+    <string name="button_race">Рейс</string>
+    <string name="button_help">Техподдержка</string>
+    <string name="nomershassi">Номер шасси</string>
+    <string name="button_start">Старт</string>
+    <string name="button_stop">Стоп</string>
+    <string name="button_send">Отправить</string>
+    <string name="RecordToService">ЗАПИСЬ НА СЕРВИС</string>
+    <string name="nomer_shassi">Номер шасси</string>
+    <string name="neispr">Неисправность</string>
+    <string name="geolocation">Координаты</string>
+    <string-array name="catlist">
+        <item>ТФК КАМАЗ Набережные Челны</item>
+        <item>ТФК КАМАЗ Вологда</item>
+        <item>ТФК КАМАЗ Йошкар-Ола</item>
+        <item>ТФК КАМАЗ Казань</item>
+        <item>ТФК КАМАЗ Кемерово</item>
+        <item>ТФК КАМАЗ Липецк</item>
+        <item>ТФК КАМАЗ Нижний Новгород</item>
+        <item>ТФК КАМАЗ Ростов-на-Дону</item>
+        <item>ТФК КАМАЗ Ставрополь</item>
+        <item>ТФК КАМАЗ Хабаровск</item>
+    </string-array>
+</resources>
